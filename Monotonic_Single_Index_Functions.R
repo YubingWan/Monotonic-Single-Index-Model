@@ -1,7 +1,8 @@
 ##########################################################################################
 ## R-code for the following manuscript 
-## "Monotonic Single-index Models with Application to Assessing Drug Interaction"
-## by Yubing Wan, Susmita Datta and Maiying Kong
+## "Monotonic single-index models to assess drug interactions"
+## by Yubing Wan, Susmita Datta, J. Jack Lee and Maiying Kong 
+## published at Statistics in Medicine
 #############################################################################
 
 ###############################################################################
